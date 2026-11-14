@@ -16,3 +16,15 @@ release goes first. Keep each entry to what a user would notice.
 ```
 
 <!-- Your first real release note goes below this line. -->
+
+## v1.0 - 2026-11-13
+
+### Added
+
+- Find expenses at or above a chosen amount (#9).
+- Calculate transaction totals for each category (#10).
+- Calculate the average saved balance, including an empty history.
+
+### Changed
+
+- Updated the product guide with run commands and examples.
